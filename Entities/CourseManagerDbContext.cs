@@ -27,7 +27,7 @@ namespace Ass2RM.Entities
 			{
 				StudentId = 1,
 				StudentName = "Rutvi Mistry",
-				StudentEmail = "rmistry9104@conestogac.on.ca",
+				StudentEmail = "rmistry@conestogac.on.ca",
 				CourseId = 1
 			});
 		}
