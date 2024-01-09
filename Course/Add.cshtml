@@ -1,0 +1,39 @@
+﻿@model CourseViewModel
+
+@{
+	ViewData["Title"] = "Add a Course";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+
+<form method="post" asp-action="Add">
+	<div class="mb-3">
+		<label class="form-lable" asp-for="Course.CourseName">Course Name</label>
+		<span class="form-text text-danger" asp-validation-for="Course.CourseName"></span>
+		<input class="form-control" type="text" asp-for="Course.CourseName" />
+	</div>
+
+	<div class="mb-3">
+		<label class="form-lable" asp-for="Course.Instructor">Instructor</label>
+		<span class="form-text text-danger" asp-validation-for="Course.Instructor"></span>
+		<input class="form-control" type="text" asp-for="Course.Instructor" />
+	</div>
+
+	<div class="mb-3">
+		<label class="form-lable" asp-for="Course.StartDate">Start date</label>
+		<span class="form-text text-danger" asp-validation-for="Course.StartDate"></span>
+		<input class="form-control" type="date" asp-for="Course.StartDate" />
+	</div>
+
+	<div class="mb-3">
+		<label class="form-lable" asp-for="Course.RoomNumber">Room Number</label>
+		<span class="form-text text-danger" asp-validation-for="Course.RoomNumber"></span>
+		<input class="form-control" type="text" asp-for="Course.RoomNumber" />
+	</div>
+	<input class="btn btn-primary" type="submit" value="Add" />
+	<a class="btn btn-secondary" asp-controller="Course" asp-action="List">Cancel</a>
+
+
+
+</form>
