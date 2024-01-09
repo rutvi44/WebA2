@@ -1,0 +1,136 @@
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\appsettings.json
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Ass2RM.staticwebassets.runtime.json
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Ass2RM.exe
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Ass2RM.deps.json
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Ass2RM.runtimeconfig.json
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Ass2RM.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Ass2RM.pdb
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\Ass2RM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\Ass2RM.AssemblyInfoInputs.cache
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\Ass2RM.AssemblyInfo.cs
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\Ass2RM.csproj.CoreCompileInputs.cache
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\Ass2RM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\Ass2RM.RazorAssemblyInfo.cache
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\Ass2RM.RazorAssemblyInfo.cs
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\staticwebassets\msbuild.Ass2RM.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\staticwebassets\msbuild.build.Ass2RM.props
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ass2RM.props
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ass2RM.props
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\scopedcss\bundle\Ass2RM.styles.css
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\scopedcss\projectbundle\Ass2RM.bundle.scp.css
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\Ass2RM.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\refint\Ass2RM.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\Ass2RM.pdb
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\Ass2RM.genruntimeconfig.cache
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\ref\Ass2RM.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\Ass2RM.csproj.AssemblyReference.cache
+C:\Users\mistr\Desktop\Sem 3\MS Web Tech\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\Ass2RM.csproj.CopyComplete
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\appsettings.json
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Ass2RM.staticwebassets.runtime.json
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Ass2RM.exe
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Ass2RM.deps.json
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Ass2RM.runtimeconfig.json
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Ass2RM.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Ass2RM.pdb
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\Ass2RM.csproj.AssemblyReference.cache
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\Ass2RM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\Ass2RM.AssemblyInfoInputs.cache
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\Ass2RM.AssemblyInfo.cs
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\Ass2RM.csproj.CoreCompileInputs.cache
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\Ass2RM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\Ass2RM.RazorAssemblyInfo.cache
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\Ass2RM.RazorAssemblyInfo.cs
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\staticwebassets\msbuild.Ass2RM.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\staticwebassets\msbuild.build.Ass2RM.props
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ass2RM.props
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ass2RM.props
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\scopedcss\bundle\Ass2RM.styles.css
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\scopedcss\projectbundle\Ass2RM.bundle.scp.css
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\Ass2RM.csproj.CopyComplete
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\Ass2RM.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\refint\Ass2RM.dll
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\Ass2RM.pdb
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\Ass2RM.genruntimeconfig.cache
+C:\Users\mistr\Desktop\Assignment\Assignment2\Assignment2RM\Ass2RM\Ass2RM\obj\Debug\net6.0\ref\Ass2RM.dll
