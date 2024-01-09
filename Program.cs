@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-var connectionString = builder.Configuration.GetConnectionString("Ass2_8889104");
+var connectionString = builder.Configuration.GetConnectionString("Ass2");
 builder.Services.AddDbContext<CourseManagerDbContext>(options => options.UseSqlServer(connectionString));
 
 builder.Services.AddScoped<ICourseManagerService, CourseManagerService>();
